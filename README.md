@@ -119,7 +119,7 @@ const MotorRepaintWebsite = () => {
                 <CardDescription>Perbaikan bagian tertentu dan touch-up untuk hasil seperti baru</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">Mulai dari Rp 500.000</p>
+                <p className="text-muted-foreground">Mulai dari Rp 300.000</p>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">âœ“ Perbaikan goresan</li>
                   <li className="flex items-center">âœ“ Color matching presisi</li>
@@ -151,7 +151,7 @@ const MotorRepaintWebsite = () => {
               <CardContent className="p-4">
                 <CardTitle>Cat Metallic</CardTitle>
                 <CardDescription>Efek kilau metalik yang mewah</CardDescription>
-                <p className="text-primary font-bold mt-2">Rp 250.000 / kaleng</p>
+                <p className="text-primary font-bold mt-2">Rp 150.000 / kaleng</p>
               </CardContent>
               <CardFooter className="p-4 pt-0">
                 <Button className="w-full">Beli Sekarang</Button>
@@ -288,8 +288,8 @@ const MotorRepaintWebsite = () => {
               </div>
               <div className="mt-8">
                 <img 
-                  src="https://placeholder-image-service.onrender.com/image/400x300?prompt=Motorcycle workshop location map in Jakarta&id=contact-map" 
-                  alt="Peta lokasi workshop motor di Jakarta"
+                  src="https://placeholder-image-service.onrender.com/image/400x300?prompt=Motorcycle workshop location map in griya benda asri &id=contact-map" 
+                  alt="Peta lokasi workshop motor di griya waterland"
                   className="w-full rounded-lg shadow-md"
                 />
               </div>
