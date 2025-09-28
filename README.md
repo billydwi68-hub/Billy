@@ -75,7 +75,7 @@ const MotorRepaintWebsite = () => {
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">âœ“ Persiapan surface profesional</li>
                   <li className="flex items-center">âœ“ Cat berkualitas tinggi</li>
-                  <li className="flex items-center">âœ“ Garansi 1 tahun</li>
+                  <li className="flex items-center">âœ“ Garansi 5 bulan</li>
                 </ul>
               </CardContent>
               <CardFooter>
@@ -95,7 +95,7 @@ const MotorRepaintWebsite = () => {
                 <CardDescription>Desain custom sesuai keinginan dengan berbagai pilihan efek</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">Mulai dari Rp 2.500.000</p>
+                <p className="text-muted-foreground">Mulai dari Rp 1.500.000</p>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">âœ“ Desain eksklusif</li>
                   <li className="flex items-center">âœ“ Efek pearl dan metallic</li>
@@ -119,7 +119,7 @@ const MotorRepaintWebsite = () => {
                 <CardDescription>Perbaikan bagian tertentu dan touch-up untuk hasil seperti baru</CardDescription>
               </CardHeader>
               <CardContent>
-                <p className="text-muted-foreground">Mulai dari Rp 300.000</p>
+                <p className="text-muted-foreground">Mulai dari Rp 350.000</p>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">âœ“ Perbaikan goresan</li>
                   <li className="flex items-center">âœ“ Color matching presisi</li>
@@ -137,7 +137,7 @@ const MotorRepaintWebsite = () => {
       {/* Products Section */}
       <section id="products" className="py-20 bg-background">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Produk Cat Motor</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">Produk Cat Motor saporo</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Product 1 */}
             <Card className="bg-muted">
@@ -170,7 +170,7 @@ const MotorRepaintWebsite = () => {
               <CardContent className="p-4">
                 <CardTitle>Cat Pearl</CardTitle>
                 <CardDescription>Efek mutiara yang elegan</CardDescription>
-                <p className="text-primary font-bold mt-2">Rp 300.000 / kaleng</p>
+                <p className="text-primary font-bold mt-2">Rp 350.000 / kaleng</p>
               </CardContent>
               <CardFooter className="p-4 pt-0">
                 <Button className="w-full">Beli Sekarang</Button>
@@ -189,7 +189,7 @@ const MotorRepaintWebsite = () => {
               <CardContent className="p-4">
                 <CardTitle>Cat Matte</CardTitle>
                 <CardDescription>Finish matte yang trendy</CardDescription>
-                <p className="text-primary font-bold mt-2">Rp 200.000 / kaleng</p>
+                <p className="text-primary font-bold mt-2">Rp 30.000 / kaleng</p>
               </CardContent>
               <CardFooter className="p-4 pt-0">
                 <Button className="w-full">Beli Sekarang</Button>
@@ -271,11 +271,11 @@ const MotorRepaintWebsite = () => {
               <div className="space-y-4">
                 <div>
                   <h4 className="font-semibold">Alamat</h4>
-                  <p className="text-muted-foreground">Jl. Raya Motor No. 123, Jakarta Selatan</p>
+                  <p className="text-muted-foreground">Jl.griya benda no a9</p>
                 </div>
                 <div>
                   <h4 className="font-semibold">Telepon</h4>
-                  <p className="text-muted-foreground">+62 812-3456-7890</p>
+                  <p className="text-muted-foreground">+62 81228164622</p>
                 </div>
                 <div>
                   <h4 className="font-semibold">Email</h4>
